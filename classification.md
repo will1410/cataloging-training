@@ -4,7 +4,7 @@ Using the NExpress catalog to find items shelved as member libraries requires th
 
 A visual overview of how items are classified would look something like this:
 
-\(need picture\)
+![Classification](.gitbook/assets/010-classification-opac.jpg)
 
 ## Home library:
 
@@ -234,4 +234,4 @@ In the staff client, the classification scheme looks like this:
 
 In the new OPAC, the classification scheme will look like this:
 
-![OPAC screenshot - classification](.gitbook/assets/040-classification-opac.jpg)
+![New OPAC screenshot - classification](.gitbook/assets/040-classification-opac.jpg)
