@@ -30,6 +30,8 @@
 
 7. If you have a match, you can just add the item you're cataloging to the existing record.
 
+[How to add an item to an existing record](./very-basic-cataloging/adding-an-item.md)
+
 (Screenshot needed)
 
 8. If you do not find a match by title/author, your next step would be to try to copy-catalog the title.
