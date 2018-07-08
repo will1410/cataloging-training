@@ -220,5 +220,18 @@ Each item record _should_ include a call number. Call numbers are not set at the
 
 If a bibliographic record has a call number in the 080$a field, the system will attempt to use that number as an item's default call number. If, however, nothing is defined in the 080$a, the call number field in the item record will be blank.
 
-![](.gitbook/assets/2018-07-08_14-24-15.jpg)
+***
 
+## Screenshots
+
+In the OPAC, the classification scheme looks like this:
+
+![OPAC screenshot - classification](.gitbook/assets/020-classification-opac.jpg)
+
+In the staff client, the classification scheme looks like this:
+
+![OPAC screenshot - classification](.gitbook/assets/030-classification-opac.jpg)
+
+In the new OPAC, the classification scheme will look like this:
+
+![OPAC screenshot - classification](.gitbook/assets/040-classification-opac.jpg)
