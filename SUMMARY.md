@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Classification](classification.md)
+* [Searching for a title](searching-for-a-title.md)
 * [Very basic cataloging](very-basic-cataloging/README.md)
-  * [Searching for a title](very-basic-cataloging/searching-for-a-title.md)
   * [Adding an item](very-basic-cataloging/adding-an-item.md)
 * [Copy cataloging](copy-cataloging/README.md)
   * [Adding a title by Z39.50](copy-cataloging/adding-a-title-by-z39.50.md)
