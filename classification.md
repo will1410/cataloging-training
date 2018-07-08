@@ -1,25 +1,21 @@
 # Classification
 
-***
-
-Using the NExpress catalog to find items shelved as member libraries requires that items follow some basic classification rules.  The NExpress classification scheme is based on the item's home library, shelving location, item type, collection code, and call number -- in that order.
+Using the NExpress catalog to find items shelved as member libraries requires that items follow some basic classification rules. The NExpress classification scheme is based on the item's home library, shelving location, item type, collection code, and call number -- in that order.
 
 A visual overview of how items are classified would look something like this:
 
-(need picture)
-
-***
+\(need picture\)
 
 ## Home library:
 
-Each item **_must_** include a home library that is defined by the drop-down list of current NExpress libraries.  Library codes and names are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item _**must**_ include a home library that is defined by the drop-down list of current NExpress libraries. Library codes and names are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
-Patrons will only ever see a library's name in the OPAC.  Staff will usually see library names but may also see library codes - especially when running reports.  
+Patrons will only ever see a library's name in the OPAC. Staff will usually see library names but may also see library codes - especially when running reports.
 
 The current library codes/names are:
 
 | Library code | Library name |
-| ------------ | ------------ |
+| --- | --- |
 | ATCHISON | Atchison Public Library |
 | BALDWIN | Baldwin City Public Library |
 | BASEHOR | Basehor Community Library |
@@ -43,7 +39,7 @@ The current library codes/names are:
 | LANSING | Lansing Community Library |
 | LEAVENWRTH | Leavenworth Public Library |
 | LINWOOD | Linwood Community Library |
-| LOUISBURG | Louisburg (Hoopla Digital Only) |
+| LOUISBURG | Louisburg \(Hoopla Digital Only\) |
 | LYNDON | Lyndon Carnegie Library |
 | MCLOUTH | McLouth Public Library |
 | MERIDEN | Meriden-Ozawkie Public Library |
@@ -74,54 +70,50 @@ The current library codes/names are:
 | WILLIAMSBG | Williamsburg Community Library |
 | WINCHESTER | Winchester Public Library |
 
-***
-
 ## Shelving location:
 
-Each item record _should_ include a shelving location that is defined by the drop-down list of current NExpress shelving locations.  Shelving locations are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item record _should_ include a shelving location that is defined by the drop-down list of current NExpress shelving locations. Shelving locations are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
-Rather than being names of actual shelving locations, NExpress has primarily used the shelving location to denote whether an item is an "Adult," "Childrens," or "Young adult" item for the purposes of gathering statistical data.  Virtually every item in NExpress has an "Adult," "Childrens," or "Young adult."
+Rather than being names of actual shelving locations, NExpress has primarily used the shelving location to denote whether an item is an "Adult," "Childrens," or "Young adult" item for the purposes of gathering statistical data. Virtually every item in NExpress has an "Adult," "Childrens," or "Young adult."
 
-However, there are a handful of other shelving locations.  Some of them are locations created by the software for system use and some have been created to help specific libraries gather statistical data on display items.
+However, there are a handful of other shelving locations. Some of them are locations created by the software for system use and some have been created to help specific libraries gather statistical data on display items.
 
-Additionally, it is currently possible to add an item with no shelving location.  This is not recommended because it will cause problems with your library's monthly and annual reports.
+Additionally, it is currently possible to add an item with no shelving location. This is not recommended because it will cause problems with your library's monthly and annual reports.
 
-Patrons will only ever see a shelving location's name in the OPAC.  Staff will usually see shelving location's name but may also see shelving location codes - especially when running reports.
+Patrons will only ever see a shelving location's name in the OPAC. Staff will usually see shelving location's name but may also see shelving location codes - especially when running reports.
 
 The current shelving location codes/names are:
 
 | Location code | Location name |
-| ------------ | ------------ |
-| ADULT |  Adult |
+| --- | --- |
+| ADULT | Adult |
 | CART | Book Cart |
 | CATALOGING | Cataloging |
-| CHILDRENS |  Childrens |
-| LVPLADULT | ~Adult Display (Leavenworth Public Library) |
-| LVPLCHILD | ~Children's Display (Leavenworth Public Library) |
-| LVPLYA | ~Young Adult Display (Leavenworth Public Library) |
+| CHILDRENS | Childrens |
+| LVPLADULT | ~Adult Display \(Leavenworth Public Library\) |
+| LVPLCHILD | ~Children's Display \(Leavenworth Public Library\) |
+| LVPLYA | ~Young Adult Display \(Leavenworth Public Library\) |
 | PROC | Processing Center |
-| YOUNGADULT |  Young Adult |
-
-***
+| YOUNGADULT | Young Adult |
 
 ## Item type:
 
-Each item record **_must_** include an item type that is defined by the drop-down list of current NExpress item types.  Item types are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item record _**must**_ include an item type that is defined by the drop-down list of current NExpress item types. Item types are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
-An item record cannot be saved without an item type.  Beyond describing an item, the major function of an item's type is to control its circulation rules.
+An item record cannot be saved without an item type. Beyond describing an item, the major function of an item's type is to control its circulation rules.
 
-Patrons will only ever see an item type name in the OPAC.  Staff will usually see an item type name but may also see item type codes - especially when running reports.
+Patrons will only ever see an item type name in the OPAC. Staff will usually see an item type name but may also see item type codes - especially when running reports.
 
 The current shelving location codes/names are:
 
 | Item type code | Item type name |
-| -------------- | -------------- |
+| --- | --- |
 | AUDIOBOOK | AUDIOBOOK |
 | BOOK | BOOK |
 | COMPUTER | PUBLIC USE COMPUTER |
 | DIGITAL | DIGITAL CONTENT |
 | EQUIPMENT | EQUIPMENT |
-| FLPLAYAWAY | FLOATING PLAYAWAY (SLK) |
+| FLPLAYAWAY | FLOATING PLAYAWAY \(SLK\) |
 | GAME | VIDEOGAME |
 | ILL | BORROWED FROM ANOTHER LIBRARY |
 | KITS | KIT OR MULTI-PART SET |
@@ -142,20 +134,18 @@ The current shelving location codes/names are:
 | WALKIN | WALKIN ONLY |
 | WALKIN1 | WALKIN MOVIE |
 | WALKIN2 | WALKIN BOOK |
-| XXX | (UNCLASSIFIED) |
-
-***
+| XXX | \(UNCLASSIFIED\) |
 
 ## Collection code:
 
-Each item record _should_ include a collection code that is defined by the drop-down list of current NExpress collection codes.  Collection codes are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item record _should_ include a collection code that is defined by the drop-down list of current NExpress collection codes. Collection codes are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
-Patrons will only ever see collection code names in the OPAC.  Staff will usually see collection code names but may also see collection code codes - especially when running reports.
+Patrons will only ever see collection code names in the OPAC. Staff will usually see collection code names but may also see collection code codes - especially when running reports.
 
 The current shelving location codes/names are:
 
 | Collection code | Collection code name |
-| --------------- | -------------------- |
+| --- | --- |
 | BAKEWARE | Bakeware |
 | BILINGUAL | Bilingual |
 | BIOGRAPHY | Biography |
@@ -163,7 +153,7 @@ The current shelving location codes/names are:
 | BOARDBK | Board Book |
 | BOOKONCASS | Book on Cassette |
 | BOOKONCD | Book on CD |
-| BOOKONMP | Book on Digital (Playaways) |
+| BOOKONMP | Book on Digital \(Playaways\) |
 | COMBO | Blu/Ray - DVD Combo Pack |
 | COMPUTER | Public Computer |
 | DISPLAY | On Display |
@@ -202,10 +192,10 @@ The current shelving location codes/names are:
 | PAPERBACK | Paperback |
 | PARENTING | Parenting |
 | PROFCOLL | Professional Collection |
-| PS2 | VG-PlayStation 2 (PS2) |
-| PS3 | VG-PlayStation 3 (PS3) |
-| PS4 | VG-PlayStation 4 (PS4) |
-| PSP | VG-PlayStation Portable (PSP) |
+| PS2 | VG-PlayStation 2 \(PS2\) |
+| PS3 | VG-PlayStation 3 \(PS3\) |
+| PS4 | VG-PlayStation 4 \(PS4\) |
+| PSP | VG-PlayStation Portable \(PSP\) |
 | PUZZLESBDG | Puzzles & Board Games |
 | READER | Easy Reader |
 | ROMANCE | Romance |
@@ -222,12 +212,13 @@ The current shelving location codes/names are:
 | XBOX | VG-XBox |
 | XBOX360 | VG-XBox 360 |
 | XBOXONE | VG-XBox One |
-| XXX | (Unclassified) |
-
-***
+| XXX | \(Unclassified\) |
 
 ## Item call number:
 
-Each item record _should_ include a call number.  Call numbers are not set at the system level and must be added by staff at the library cataloging an item.  The call numbers used should follow the rules each library uses in defining their call numbers.
+Each item record _should_ include a call number. Call numbers are not set at the system level and must be added by staff at the library cataloging an item. The call numbers used should follow the rules each library uses in defining their call numbers.
 
-If a bibliographic record has a call number in the 080$a field, the system will attempt to use that number as an item's default call number.  If, however, nothing is defined in the 080$a, the call number field in the item record will be blank.
+If a bibliographic record has a call number in the 080$a field, the system will attempt to use that number as an item's default call number. If, however, nothing is defined in the 080$a, the call number field in the item record will be blank.
+
+![](.gitbook/assets/2018-07-08_14-24-15.jpg)
+
