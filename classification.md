@@ -19,7 +19,7 @@ Patrons will only ever see a library's name in the OPAC.  Staff will usually see
 The current library codes/names are:
 
 | Library code | Library name |
-| ---------- | ---------- |
+| ____________ | ____________ |
 | ATCHISON | Atchison Public Library |
 | BALDWIN | Baldwin City Public Library |
 | BASEHOR | Basehor Community Library |
@@ -91,7 +91,7 @@ Patrons will only ever see a shelving location's name in the OPAC.  Staff will u
 The current shelving location codes/names are:
 
 | Location code | Location name |
-| ---------------- | --- |
+| _____________ | _____________ |
 | ADULT |  Adult |
 | CART | Book Cart |
 | CATALOGING | Cataloging |
@@ -115,7 +115,7 @@ Patrons will only ever see an item type name in the OPAC.  Staff will usually se
 The current shelving location codes/names are:
 
 | Item type code | Item type name |
-| ________ | ___________ |
+| ______________ | ______________ |
 | AUDIOBOOK | AUDIOBOOK |
 | BOOK | BOOK |
 | COMPUTER | PUBLIC USE COMPUTER |
@@ -155,7 +155,7 @@ Patrons will only ever see collection code names in the OPAC.  Staff will usuall
 The current shelving location codes/names are:
 
 | Collection code | Collection code name |
-| ________________ | ___ |
+| _______________ | ____________________ |
 | BAKEWARE | Bakeware |
 | BILINGUAL | Bilingual |
 | BIOGRAPHY | Biography |
