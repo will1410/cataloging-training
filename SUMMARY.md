@@ -1,4 +1,17 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [Introduction](README.md)
+* [Classification](classification/README.md)
+* [Very basic cataloging](basiccataloging/README.md)
+  * [Searching for a title](basiccataloging/cataloging-searching.md)
+  * [Adding an item](basiccataloging/cataloging-adding-item.md)
+* [Copy cataloging](copycataloging/README.md)
+  * [Adding a title by Z39.50](copycataloging/cataloging-z3950.md)
+  * [Adding a title from ShareIt](copycataloging/cataloging-shareit.md)
+  * [Adding a title from OCLC](copycataloging/cataloging-oclc.md)
+* [Original cataloging](originalcataloging/README.md)
+  * [Adding a brief record](originalcataloging/cataloging-brief.md)
+* [ILL cataloging](illcataloging/README.md)
+  * [ILL single record](illcataloging/ill-single.md)
+  * [ILL cataloging stub records](illcataloging/ill-stub.md)
+  * [ILL cataloging brief records](illcataloging/ill-brief.md)
