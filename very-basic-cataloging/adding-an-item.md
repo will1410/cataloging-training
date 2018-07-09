@@ -6,6 +6,7 @@
 A. [After searching for a title](../searching-for-a-title.md), if you find that a matching title already exists, click on the action button of that record and select + Add/Edit items.
 
 ![Matching title](.gitbook/assets/100-adding.png)
+![Matching title](.gitbook/assets/100-adding.png)
 
 B. On the Add/Edit screen, update the following fields:
 
