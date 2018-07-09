@@ -28,9 +28,9 @@ E. If you do not find a match on the ISBN or UPC number, you should then do a se
 
 F. If you find a match based on title/author, you should also verify that the year, publisher, physical description (page numbers, large print, etc.) match.
 
-![Check your results](.gitbook/assets/100-searching.png)
+![Check your results](.gitbook/assets/070-searching.png)
 
-![MARC preview](.gitbook/assets/110-searching.png)
+![MARC preview](.gitbook/assets/080-searching.png)
 
 G. If you have a match, you can just add the item you're cataloging to the existing record.
 
