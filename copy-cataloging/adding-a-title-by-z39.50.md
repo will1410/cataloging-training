@@ -44,6 +44,6 @@ You can select different catalogs to search in (not all catalogs are searched by
 
 ![Look in other catalogs is no results are found](../.gitbook/assets/221-z39.jpg)
 
-I. If no search returns a result, you should move on to adding a title through ShareIt.
+I. If no search returns a result, you should move on to [adding a title through ShareIt.](./adding-a-title-from-shareit.md)
 
-[Click here for the "Searching for a title" instructions](./adding-a-title-from-shareit.md)
+[Click here for the "Adding a title from ShareIt" instructions](./adding-a-title-from-shareit.md)
