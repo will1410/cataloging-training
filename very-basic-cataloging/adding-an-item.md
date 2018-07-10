@@ -48,3 +48,5 @@ A new field will open that will allow you to enter the total number of items tha
 All of the items you add using this method will have barcode nubers added in sequence starting with the first number you enter.  For example, if you are adding 5 copies and the first has barcode number 1006, the items will have barcode numbers 1006, 1007, 1008, 1009, and 1010.
 
 ![Add multiple items](../.gitbook/assets/140-adding.png)
+
+![Barcode number sequence](../.gitbook/assets/150-adding.png)
