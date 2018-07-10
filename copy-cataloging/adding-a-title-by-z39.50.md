@@ -14,6 +14,8 @@ C. Fill out the form by searching for your title by ISBN, UPC, title, or author 
 
 D. If you find a match, click on the "MARC" or the "Card" link to pre-view the record and make sure that the record is a good match.  Generally speaking, the more data you see on the "Card" link, the better the record.
 
+![Preview records before importing](../.gitbook/assets/180-z39.jpg)
+
 ![MARC preview](../.gitbook/assets/181-z39.jpg)
 
 ![Card preview](../.gitbook/assets/182-z39.jpg)
