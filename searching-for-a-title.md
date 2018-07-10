@@ -18,7 +18,7 @@ C. If you find results, verify that the items actually match by verifying the IS
 
 D. If you have a match, you can just add the item you're cataloging to the existing record.
 
-[Click here to see how to add an item to an existing record](very-basic-cataloging/adding-an-item.md)
+[Click here to see how to add an item to an existing record](title-already-exists/adding-an-item.md)
 
 E. If you do not find a match on the ISBN or UPC number, you should then do a search by title/author. It is possible that a copy exists that matches in every way except ISBN or UPC number. This can especially be true for items that are quite old or have been self-published.
 
@@ -32,7 +32,7 @@ F. If you find a match based on title/author, you should also verify that the ye
 
 G. If you have a match, you can just add the item you're cataloging to the existing record.
 
-[Click here to see how to add an item to an existing record](very-basic-cataloging/adding-an-item.md)
+[Click here to see how to add an item to an existing record](title-already-exists/adding-an-item.md)
 
 H. If you do not find a match by title/author, your next step would be to try to copy-catalog the title.
 

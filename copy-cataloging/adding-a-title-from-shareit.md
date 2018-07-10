@@ -16,7 +16,7 @@ C. Once you get a list of possible matches and find a record that matches, click
 
 ![](../.gitbook/assets/260-shareit.jpg)
 
-D. Once the title record is open, click on the "Download record" button to download the MARC record for this title.  (If you don't see a "Download record" button see step X.)
+D. Once the title record is open, click on the "Download record" button to download the MARC record for this title. \(If you don't see a "Download record" button see step X.\)
 
 ![](../.gitbook/assets/270-shareit.jpg)
 
@@ -62,8 +62,9 @@ K. Click on "Import this batch into the catalog."
 
 L. After the records have been imported, you can go to the new records by clicking on the biblio numbers in the right hand column on the import items table.
 
-![](../.gitbook/assets/-shareit.jpg)
+![](https://github.com/will1410/cataloging-training/tree/248edd912112a873b577f6d42dc2d7c6e8b609ce/.gitbook/assets/-shareit.jpg)
 
-M. Once you've gone to the item's record, you can add your items by [following the Adding items instructions.](../.very-basic-cataloging/adding-an-item.md)
+M. Once you've gone to the item's record, you can add your items by following the [Adding items instructions.](../title-already-exists/adding-an-item.md)
 
-[For more information about adding items, click here](../.very-basic-cataloging/adding-an-item.md)
+[For more information about adding items, click here](https://github.com/will1410/cataloging-training/tree/248edd912112a873b577f6d42dc2d7c6e8b609ce/.very-basic-cataloging/adding-an-item.md)
+

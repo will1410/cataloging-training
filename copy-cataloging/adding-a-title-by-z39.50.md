@@ -8,11 +8,11 @@ B. If a title cannot be found, go to "Cataloging" and click on the "New from Z39
 
 ![Z39.50 search](../.gitbook/assets/160-z39.jpg)
 
-C. Fill out the form by searching for your title by ISBN, UPC, title, or author - or a combination of any of these (to search by UPC, scan the UPC code into the ISBN field) - then click on the "Search" button.
+C. Fill out the form by searching for your title by ISBN, UPC, title, or author - or a combination of any of these \(to search by UPC, scan the UPC code into the ISBN field\) - then click on the "Search" button.
 
 ![Z39.50 interface](../.gitbook/assets/170-z39.jpg)
 
-D. If you find a match, click on the "MARC" or the "Card" link to pre-view the record and make sure that the record is a good match.  Generally speaking, the more data you see on the "Card" link, the better the record.
+D. If you find a match, click on the "MARC" or the "Card" link to pre-view the record and make sure that the record is a good match. Generally speaking, the more data you see on the "Card" link, the better the record.
 
 ![Preview records before importing](../.gitbook/assets/180-z39.jpg)
 
@@ -32,7 +32,7 @@ G. After the bibliographic record has been saved, you will be redirected to the 
 
 ![Add items](../.gitbook/assets/210-z39.jpg)
 
-[For more information about adding items, click here](../.very-basic-cataloging/adding-an-item.md)
+[For more information about adding items, click here](https://github.com/will1410/cataloging-training/tree/09bcc3049af02f32a67b2f3dad708bbf3fd46050/.very-basic-cataloging/adding-an-item.md)
 
 H. If you don't find any items via a Z39.50 it is not a bad idea to repeat the search a couple of different ways.
 
@@ -40,10 +40,11 @@ You can re-do the search using different data.
 
 ![Modify a search if no results are found](../.gitbook/assets/220-z39.jpg)
 
-You can select different catalogs to search in (not all catalogs are searched by default).
+You can select different catalogs to search in \(not all catalogs are searched by default\).
 
 ![Look in other catalogs is no results are found](../.gitbook/assets/221-z39.jpg)
 
-I. If no search returns a result, you should move on to [adding a title through ShareIt.](./adding-a-title-from-shareit.md)
+I. If no search returns a result, you should move on to [adding a title through ShareIt.](adding-a-title-from-shareit.md)
 
-[Click here for the "Adding a title from ShareIt" instructions](./adding-a-title-from-shareit.md)
+[Click here for the "Adding a title from ShareIt" instructions](adding-a-title-from-shareit.md)
+

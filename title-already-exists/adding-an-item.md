@@ -9,10 +9,10 @@ A. [After searching for a title](../searching-for-a-title.md), if you find that 
 B. On the Add/Edit screen, you must update the following fields:
 
 * Collection code
-* Home Library (should default to your library)
-* Current location (should default to your library)
+* Home Library \(should default to your library\)
+* Current location \(should default to your library\)
 * Shelving location
-* Call number (will default to data from 082$a)
+* Call number \(will default to data from 082$a\)
 * Barcode
 * Cost, replacement price
 * Koha item type
@@ -41,12 +41,13 @@ The fields on the second item will match the details you updated on the first it
 
 ## Adding more than 2 items to one records
 
-F. If you have more than 2 copies of the same title to add to a record and your barcode numbers are in sequence (1, 2, 3, 4 . . .), once you've finished adding the first, click "Add multiple copies of this item."
+F. If you have more than 2 copies of the same title to add to a record and your barcode numbers are in sequence \(1, 2, 3, 4 . . .\), once you've finished adding the first, click "Add multiple copies of this item."
 
 A new field will open that will allow you to enter the total number of items that you're going to add to this record.
 
-All of the items you add using this method will have barcode nubers added in sequence starting with the first number you enter.  For example, if you are adding 5 copies and the first has barcode number 1006, the items will have barcode numbers 1006, 1007, 1008, 1009, and 1010.
+All of the items you add using this method will have barcode nubers added in sequence starting with the first number you enter. For example, if you are adding 5 copies and the first has barcode number 1006, the items will have barcode numbers 1006, 1007, 1008, 1009, and 1010.
 
 ![Add multiple items](../.gitbook/assets/140-adding.png)
 
 ![Barcode number sequence](../.gitbook/assets/150-adding.png)
+
