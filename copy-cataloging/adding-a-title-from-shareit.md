@@ -69,5 +69,3 @@ M. After the records have been imported, you can go to the new records by clicki
 N. Once you've gone to the item's record, you can add your items by following the [Adding items instructions.](../title-already-exists/adding-an-item.md)
 
 [For more information about adding items, click here](../title-already-exists/adding-an-item.md)
-
-adding information
