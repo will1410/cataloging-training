@@ -4,78 +4,66 @@
 
 A. Log in to ShareIt
 
-(Screenshot needed)
+![](../.gitbook/assets/230-shareit.jpg)
+
+![](../.gitbook/assets/240-shareit.jpg)
 
 B. Search for a title by ISBN/UPC/Title/Author as you would for any other title.
 
-(Screenshot needed)
+![](../.gitbook/assets/250-shareit.jpg)
 
-C. If you get a list of possible matches, click on a library name to open the title's record.
+C. Once you get a list of possible matches and find a record that matches, click on a library name to open the title's record.
 
-(Screenshot needed)
+![](../.gitbook/assets/260-shareit.jpg)
 
 D. Once the title record is open, click on the "Download record" button to download the MARC record for this title.  (If you don't see a "Download record" button see step X.)
 
-(Screenshot needed)
+![](../.gitbook/assets/270-shareit.jpg)
 
-E. You can repeat these first steps to download several records at once.
+E. This will download the records as a file onto your computer - usually into your "Downloads" folder.
 
-(Screenshot needed)
+![](../.gitbook/assets/280-shareit.jpg)
 
-## To download the record/records:
+![](../.gitbook/assets/290-shareit.jpg)
 
-F. Go to Staff dashboard - Cat admin - View download card.
-
-(Screenshot needed)
-
-G. Then click on "Select all" to select the records to download.
-
-(Screenshot needed)
-
-H. Then click on "Download."
-
-(Screenshot needed)
-
-This will download the records as a file onto your computer.
+![](../.gitbook/assets/300-shareit.jpg)
 
 ## To import the record/records into NExpress:
 
-I. Open the Tools menu in NExpress.
+F. Open the Tools menu in NExpress.
 
-(Screenshot needed)
+![](../.gitbook/assets/310-shareit.jpg)
 
-J. Select "Stage marc records for import."
+G. Select "Stage marc records for import."
 
-(Screenshot needed)
+![](../.gitbook/assets/320-shareit.jpg)
 
-K. Click on "Browse."
+G. Click on "Browse" and go to the folder where the record was downloaded - usually the "Downloads" folder on your computer.
 
-(Screenshot needed)
+![](../.gitbook/assets/330-shareit.jpg)
 
-L. Select the file to import and click on "Upload file."
+H. Select the file to import and click on "Upload file."
 
-(Screenshot needed)
+![](../.gitbook/assets/340-shareit.jpg)
 
-M. Follow the hints on the dropdown menus and click on "Stage for import."
+I. Follow the hints on the dropdown menus and click on "Stage for import."
 
-(Screenshot needed)
+![](../.gitbook/assets/350-shareit.jpg)
 
-N. Once the items are staged, click on "Manage staged records" to finish the import.
+![](../.gitbook/assets/360-shareit.jpg)
 
-(Screenshot needed)
+J. Once the items are staged, click on "Manage staged records" to finish the import.
 
-O. Click on "Import this batch into the catalog."
+![](../.gitbook/assets/370-shareit.jpg)
 
-(Screenshot needed)
+K. Click on "Import this batch into the catalog."
 
-P. After the records have been imported, you can go to the new records by clicking on the biblio numbers in the right hand column on the import items table.
+![](../.gitbook/assets/380-shareit.jpg)
 
-(Screenshot needed)
+L. After the records have been imported, you can go to the new records by clicking on the biblio numbers in the right hand column on the import items table.
 
-Q. Once you've gone to the item's record, you can add your items by following the instructions at =+=
+![](../.gitbook/assets/-shareit.jpg)
 
-(Screenshot needed)
+M. Once you've gone to the item's record, you can add your items by [following the Adding items instructions.](../.very-basic-cataloging/adding-an-item.md)
 
-R. If you cannot find a title by searching in Shareit, your next step would be to search in OCLC.
-
-(Screenshot needed)
+[For more information about adding items, click here](../.very-basic-cataloging/adding-an-item.md)
