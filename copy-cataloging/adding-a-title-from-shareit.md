@@ -4,13 +4,13 @@
 
 A. Log in to ShareIt (if you don't know how to log into ShareIt, please call NEKLS).
 
-![ShareIt link on staff homepage](../.gitbook/assets/230-shareit.jpg)
+![ShareIt link on staff homepage](../.gitbook/assets/1230-shareit.jpg)
 
-![ShareIt login](../.gitbook/assets/240-shareit.jpg)
+![ShareIt login](../.gitbook/assets/1240-shareit.jpg)
 
 B. Search for a title by ISBN/UPC/Title/Author as you would for any other title.
 
-![Search in ShareIt](../.gitbook/assets/250-shareit.jpg)
+![Search in ShareIt](../.gitbook/assets/1250-shareit.jpg)
 
 C. Once you get a list of possible matches and find a record that matches, click on a library name to open the title's record.
 
