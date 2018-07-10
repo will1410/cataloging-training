@@ -8,7 +8,9 @@ Fill in the following fields accordingly, if applicable:
 
 * 000 -- Leader - click in this field and let it autofill
 * 008 -- Fixed length data elements - click in this field and let it autofill
-* 020 -- ISBN 024 -- UPC code \(if applicable -- found on Music, DVDs, CDs\)
+* 020 or 024
+  * 020 -- ISBN number if the item has one (books)
+  * 024 -- UPC code if the item doesn't have an ISBN \(DVDs, Blu-ray discs, music CDs\)
 * 100 -- Author \(if applicable\)
 * 245 -- Title \(required\)
 * 250 -- edition \(if applicable\)
@@ -22,6 +24,8 @@ Fill in the following fields accordingly, if applicable:
   * v - volume number
 * 500 – add note if applicable
 
-Save the record, and add your item information accordingly.
+Once you save the record, you can add your items by following the [adding items instructions.](../title-already-exists/adding-an-item.md)
+
+[For more information about adding items, click here](../title-already-exists/adding-an-item.md)
 
 If you are uncomfortable creating a new record, contact nexpresshelp@nekls.org
