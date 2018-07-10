@@ -17,7 +17,7 @@ B. On the Add/Edit screen, you must update the following fields:
 * Cost, replacement price
 * Koha item type
 
-\(screenshot needed \)
+![+Add/edit](../.gitbook/assets/110-adding.png)
 
 C. Additionally you can add these optional fields:
 
@@ -27,13 +27,13 @@ C. Additionally you can add these optional fields:
 * Non-public note
 * Public note
 
-(Screenshot needed)
+![+Add/edit](../.gitbook/assets/120-adding.png)
 
 D. If you only have one item to add to the record, once the fields are filled, click on "Add item" to finish adding the item.
 
-E. If you have two copies of the same title to add to a record, once you've finished adding the first, click "Add and duplicate" to add a second copy. The fields on the second item will match the details you updated on the first item.
+E. If you have two copies of the same title to add to a record, once you've finished adding the first, click "Add and duplicate" to add a second copy and follow the instructions below. The fields on the second item will match the details you updated on the first item.
 
-F. If you have more than 2 copies to add, click "Add multiple copies of this item."
+F. If you have more than 2 copies to add, follow the instructions at ==.
 
 ## Adding 2 items to one records
 
