@@ -35,7 +35,7 @@ D. If you only have one item to add to the record, once the fields are filled, c
 
 E. If you have two copies of the same title to add to a record, once you've finished adding the first, click "Add and duplicate" to add a second copy and follow the instructions below.
 
-The fields on the second item will match the details you updated on the first item.
+The fields on the second item will match the details you updated on the first item except the barcode number.
 
 ![Duplicate added item](../.gitbook/assets/130-adding.png)
 
