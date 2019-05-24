@@ -1,4 +1,4 @@
-# Adding an "On order" record for an upcoming Title
+# Adding an "On order" item record for an upcoming title
 
 1. First search for a title using the ["Searching for a title"](../searching-for-a-title.md) instructions.
 
