@@ -15,3 +15,4 @@
   * [ILL cataloging stub records](ill-cataloging/ill-cataloging-stub-records.md)
   * [ILL cataloging brief records](ill-cataloging/ill-cataloging-brief-records.md)
 * [On Order cataloging](on_order_records/README.md)
+  * [On Order](on_order_records/on-order_item.md)
