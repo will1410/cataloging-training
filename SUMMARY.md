@@ -16,3 +16,4 @@
   * [ILL cataloging brief records](ill-cataloging/ill-cataloging-brief-records.md)
 * [On Order cataloging](on_order_records/README.md)
   * [On order item](on_order_records/on-order_item.md)
+  * [On order record](on_order_records/on-order_record.md)
