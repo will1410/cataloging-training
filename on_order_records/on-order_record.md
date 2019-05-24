@@ -27,7 +27,7 @@
 5. When you receive the item you need to make the following changes to the bibliographic record:
   A. Remove the "[On order]" or "(Street date mm/dd/yyyy)" notations from the 245$a field
 
-![Adding the on order record](../.gitbook/assets/2010-onorder.jpg)
+![Adding the on order record](../.gitbook/assets/2050-onorder.jpg)
 
   B. Make any other changes to the bibliographic record as needed
 
