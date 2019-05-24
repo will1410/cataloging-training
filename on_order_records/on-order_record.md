@@ -11,6 +11,7 @@
   A. Add "[On order]" or "(Street date mm/dd/yyyy)" to the end of the 245$a field.
 
 ![Pre-adding on order record - On order](../.gitbook/assets/2030-onorder.jpg)
+
 ![Pre-adding on order record - Street date mm/dd/yyyy](../.gitbook/assets/2040-onorder.jpg)
 
 4. Make the following changes to the item record:
