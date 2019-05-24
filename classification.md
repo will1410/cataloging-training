@@ -1,6 +1,6 @@
 # Classification
 
-Using the NExpress catalog to find items shelved as member libraries requires that items follow some basic classification rules. The NExpress classification scheme is based on the item's home library, shelving location, item type, collection code, and call number -- in that order.
+Using the Next Search Catalog catalog to find items shelved as member libraries requires that items follow some basic classification rules. The Next Search Catalog classification scheme is based on the item's home library, shelving location, item type, collection code, and call number -- in that order.
 
 A visual overview of how items are classified would look something like this:
 
@@ -8,7 +8,7 @@ A visual overview of how items are classified would look something like this:
 
 ## Home library:
 
-Each item _**must**_ include a home library that is defined by the drop-down list of current NExpress libraries. Library codes and names are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item _**must**_ include a home library that is defined by the drop-down list of current Next Search Catalog libraries. Library codes and names are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
 Patrons will only ever see a library's name in the OPAC. Staff will usually see library names but may also see library codes - especially when running reports.
 
@@ -72,9 +72,9 @@ The current library codes/names are:
 
 ## Shelving location:
 
-Each item record _should_ include a shelving location that is defined by the drop-down list of current NExpress shelving locations. Shelving locations are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item record _should_ include a shelving location that is defined by the drop-down list of current Next Search Catalog shelving locations. Shelving locations are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
-Rather than being names of actual shelving locations, NExpress has primarily used the shelving location to denote whether an item is an "Adult," "Childrens," or "Young adult" item for the purposes of gathering statistical data. Virtually every item in NExpress has an "Adult," "Childrens," or "Young adult."
+Rather than being names of actual shelving locations, Next Search Catalog has primarily used the shelving location to denote whether an item is an "Adult," "Childrens," or "Young adult" item for the purposes of gathering statistical data. Virtually every item in Next Search Catalog has an "Adult," "Childrens," or "Young adult."
 
 However, there are a handful of other shelving locations. Some of them are locations created by the software for system use and some have been created to help specific libraries gather statistical data on display items.
 
@@ -98,7 +98,7 @@ The current shelving location codes/names are:
 
 ## Item type:
 
-Each item record _**must**_ include an item type that is defined by the drop-down list of current NExpress item types. Item types are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item record _**must**_ include an item type that is defined by the drop-down list of current Next Search Catalog item types. Item types are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
 An item record cannot be saved without an item type. Beyond describing an item, the major function of an item's type is to control its circulation rules.
 
@@ -138,7 +138,7 @@ The current shelving location codes/names are:
 
 ## Collection code:
 
-Each item record _should_ include a collection code that is defined by the drop-down list of current NExpress collection codes. Collection codes are set at the system level and cannot be added, changed, or updated by staff at member libraries.
+Each item record _should_ include a collection code that is defined by the drop-down list of current Next Search Catalog collection codes. Collection codes are set at the system level and cannot be added, changed, or updated by staff at member libraries.
 
 Patrons will only ever see collection code names in the OPAC. Staff will usually see collection code names but may also see collection code codes - especially when running reports.
 
@@ -233,4 +233,3 @@ In the staff client, the classification scheme looks like this:
 In the new OPAC, the classification scheme will look like this:
 
 ![New OPAC screenshot - classification](.gitbook/assets/040-classification-opac.jpg)
-

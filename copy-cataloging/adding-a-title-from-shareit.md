@@ -28,9 +28,9 @@ E. This will download the records as a file onto your computer - usually into yo
 
 ![Download folder location](../.gitbook/assets/300-shareit.jpg)
 
-## To import the record/records into NExpress:
+## To import the record/records into Next Search Catalog:
 
-F. Open the Tools menu in NExpress.
+F. Open the Tools menu in Next Search Catalog.
 
 ![Tools](../.gitbook/assets/310-shareit.jpg)
 

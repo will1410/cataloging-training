@@ -1,4 +1,3 @@
 # Introduction
 
-This is the new repository for Next Kansas cataloging training. It will replace all previous training documents on this subject.
-
+This is the new repository for Next Search Catalog cataloging training. It will replace all previous training documents on this subject.

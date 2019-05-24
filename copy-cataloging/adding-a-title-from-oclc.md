@@ -22,9 +22,9 @@ E. Repeat as necessary.
 
 F. Download the records to your computer.
 
-## To import the record/records into NExpress:
+## To import the record/records into Next Search Catalog:
 
-G. Open the Tools menu in NExpress.
+G. Open the Tools menu in Next Search Catalog.
 
 \(Screenshot needed\)
 
@@ -63,4 +63,3 @@ O. Once you've gone to the item's record, you can add your items by following th
 P. If you cannot find a title by searching in Shareit, your next step would be to search in OCLC.
 
 \(Screenshot needed\)
-

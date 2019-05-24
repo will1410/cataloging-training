@@ -1,6 +1,6 @@
 # Adding a brief record
 
-If you can’t find a record already in NExpress, or a record via Z39.50 or a record in Shareit, you may need to create an original catalog record.
+If you can’t find a record already in Next Search Catalog, or a record via Z39.50 or a record in Shareit, you may need to create an original catalog record.
 
 Go to Cataloging \(More--&gt;Cataloging\), and choose New Record --&gt; Brief Records Framework.
 
@@ -28,4 +28,4 @@ Once you save the record, you can add your items by following the [adding items 
 
 [For more information about adding items, click here](../title-already-exists/adding-an-item.md)
 
-If you are uncomfortable creating a new record, contact nexpresshelp@nekls.org
+If you are uncomfortable creating a new record, contact Next Search Cataloghelp@nekls.org
